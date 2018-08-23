@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: fdfc7ad7b44157049a85ed93aa9037a3
+  productGUID: 4a2d06beeac5f7c47a4ca76e704a3b36
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -632,8 +632,8 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: f16da1f4-e9ef-42f9-a907-05418fb2f1cd
-  projectName: WalkingStuff (2)
+  cloudProjectId: 02ad166e-5558-49cf-b947-7ced686e3623
+  projectName: WalkingStuff (3)
   organizationId: zongtg
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0

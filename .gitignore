@@ -6,6 +6,10 @@ Thumbs.db.meta
 .vs
 .vscode
 
+# Build files
+*.apk
+*.obb
+
 # Visual Studio files
 *.cachefile
 *.csproj
@@ -18,5 +22,10 @@ Thumbs.db.meta
 *.v11
 *.v12
 
-#Folders to Exclude
-Temp/
+# Folders to exclude
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/Assets/AssetStoreTools*
